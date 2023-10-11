@@ -8,7 +8,7 @@ using InteractiveUtils
 x = 23;
 
 # ╔═╡ a43e83f0-0c39-48ba-ae7d-a4a13e38f646
-
+println(x)
 
 # ╔═╡ Cell order:
 # ╠═58120012-684e-11ee-2ded-c729413a37f1
