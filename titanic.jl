@@ -54,7 +54,7 @@ PLUTO_MANIFEST_TOML_CONTENTS = """
 
 julia_version = "1.9.3"
 manifest_format = "2.0"
-project_hash = "08e5dfc5d281fa7553c48e5748f93b23b66b83aa"
+project_hash = "87e9faff0ecda885441345d5e981c65dddaa6401"
 
 [[deps.ARFFFiles]]
 deps = ["CategoricalArrays", "Dates", "Parsers", "Tables"]
