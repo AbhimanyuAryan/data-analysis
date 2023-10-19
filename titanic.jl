@@ -35,7 +35,7 @@ schema(df)
 coerce!(df, :sibsp => Count)
 
 # ╔═╡ fa8ff12f-7f96-43b1-bcf8-9ab082f87b97
-
+y = x + 1
 
 # ╔═╡ 9ce3c49a-0360-4b3b-8bdf-77f3af89d563
 
