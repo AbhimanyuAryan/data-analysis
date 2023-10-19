@@ -10,6 +10,9 @@ using MLJ, DataFrames
 # ╔═╡ cb4e92cb-2ed6-4b97-a844-d597d9b98954
 import DataFrames as DF
 
+# ╔═╡ 2a833207-8266-4086-a5ac-42dcab2f9e35
+
+
 # ╔═╡ 48504c8b-df3a-44c6-956c-10b1cfa823d5
 typeof(1)
 
@@ -1143,6 +1146,7 @@ version = "17.4.0+0"
 # ╔═╡ Cell order:
 # ╠═0217157c-6910-11ee-3c7c-cb59227a95b6
 # ╠═cb4e92cb-2ed6-4b97-a844-d597d9b98954
+# ╠═2a833207-8266-4086-a5ac-42dcab2f9e35
 # ╠═48504c8b-df3a-44c6-956c-10b1cfa823d5
 # ╠═cb81707e-47d9-483d-8f01-aec7b58d1dc1
 # ╠═1cb1ba17-7b35-4613-9def-c7d864fcdbd2
