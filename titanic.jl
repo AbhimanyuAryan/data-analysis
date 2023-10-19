@@ -11,7 +11,7 @@ using MLJ, DataFrames
 import DataFrames as DF
 
 # ╔═╡ 2a833207-8266-4086-a5ac-42dcab2f9e35
-
+x = 1
 
 # ╔═╡ 48504c8b-df3a-44c6-956c-10b1cfa823d5
 typeof(1)
