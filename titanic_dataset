@@ -1,0 +1,11 @@
+### A Pluto.jl notebook ###
+# v0.19.42
+
+using Markdown
+using InteractiveUtils
+
+# ╔═╡ 90e0557a-6910-11ee-207d-ab45b0de1ccb
+using DataFrames
+
+# ╔═╡ Cell order:
+# ╠═90e0557a-6910-11ee-207d-ab45b0de1ccb
