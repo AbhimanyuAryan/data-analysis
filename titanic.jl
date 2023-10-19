@@ -38,7 +38,7 @@ coerce!(df, :sibsp => Count)
 y = x + 1
 
 # ╔═╡ 9ce3c49a-0360-4b3b-8bdf-77f3af89d563
-
+function findbother(x::Int)
 
 # ╔═╡ 00000000-0000-0000-0000-000000000001
 PLUTO_PROJECT_TOML_CONTENTS = """
